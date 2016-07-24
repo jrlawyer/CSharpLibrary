@@ -11,7 +11,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicTypes_Strings", "Basic
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicTypes_DataConversion", "BasicTypes_DataConversion\BasicTypes_DataConversion.csproj", "{A81ED9B0-D7FD-43EC-AB3F-2A8A3638C4D8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conditionals", "Conditionals\Conditionals.csproj", "{C464F615-18EB-446B-B939-A6C8495D137F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conditionals_Game 1", "Conditionals\Conditionals_Game 1.csproj", "{C464F615-18EB-446B-B939-A6C8495D137F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Basics_Examples", "Basics_Examples", "{49AC995F-6A31-42E9-88AB-05A26C908BB7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Conditionals_Examples", "Conditionals_Examples", "{2AA6C179-EFF8-4691-9CB7-CFF8976CDAE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conditionals_Game 2", "Game 2\Conditionals_Game 2.csproj", "{314CC020-B45D-4624-AA0F-577C2ED7484D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,8 +45,19 @@ Global
 		{C464F615-18EB-446B-B939-A6C8495D137F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C464F615-18EB-446B-B939-A6C8495D137F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C464F615-18EB-446B-B939-A6C8495D137F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{314CC020-B45D-4624-AA0F-577C2ED7484D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{314CC020-B45D-4624-AA0F-577C2ED7484D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{314CC020-B45D-4624-AA0F-577C2ED7484D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{314CC020-B45D-4624-AA0F-577C2ED7484D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{3A36C662-7C26-4FF5-AA05-B793C024DAC3} = {49AC995F-6A31-42E9-88AB-05A26C908BB7}
+		{7C63959E-CCF4-44C0-9138-645849A84243} = {49AC995F-6A31-42E9-88AB-05A26C908BB7}
+		{A81ED9B0-D7FD-43EC-AB3F-2A8A3638C4D8} = {49AC995F-6A31-42E9-88AB-05A26C908BB7}
+		{C464F615-18EB-446B-B939-A6C8495D137F} = {2AA6C179-EFF8-4691-9CB7-CFF8976CDAE6}
+		{314CC020-B45D-4624-AA0F-577C2ED7484D} = {2AA6C179-EFF8-4691-9CB7-CFF8976CDAE6}
 	EndGlobalSection
 EndGlobal
