@@ -4,3 +4,9 @@ C:\Users\Jennifer\Desktop\DotNet\MVC\CSharpLibrary\CSharpLibrary\CSharpLibrary\b
 C:\Users\Jennifer\Desktop\DotNet\MVC\CSharpLibrary\CSharpLibrary\CSharpLibrary\obj\Debug\CSharpLibrary.csprojResolveAssemblyReference.cache
 C:\Users\Jennifer\Desktop\DotNet\MVC\CSharpLibrary\CSharpLibrary\CSharpLibrary\obj\Debug\CSharpLibrary.exe
 C:\Users\Jennifer\Desktop\DotNet\MVC\CSharpLibrary\CSharpLibrary\CSharpLibrary\obj\Debug\CSharpLibrary.pdb
+C:\Users\Jennifer\Desktop\DotNet\CSharpLibrary\Library\CSharpLibrary\CSharpLibrary\bin\Debug\CSharpLibrary.exe.config
+C:\Users\Jennifer\Desktop\DotNet\CSharpLibrary\Library\CSharpLibrary\CSharpLibrary\obj\Debug\CSharpLibrary.exe
+C:\Users\Jennifer\Desktop\DotNet\CSharpLibrary\Library\CSharpLibrary\CSharpLibrary\obj\Debug\CSharpLibrary.pdb
+C:\Users\Jennifer\Desktop\DotNet\CSharpLibrary\CSharpLibrary\bin\Debug\CSharpLibrary.exe.config
+C:\Users\Jennifer\Desktop\DotNet\CSharpLibrary\CSharpLibrary\obj\Debug\CSharpLibrary.exe
+C:\Users\Jennifer\Desktop\DotNet\CSharpLibrary\CSharpLibrary\obj\Debug\CSharpLibrary.pdb
