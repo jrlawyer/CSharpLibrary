@@ -21,7 +21,7 @@ namespace _05_ClassExample1
             Car zachsCar = new Car();
             Car jensCar = new Car();
             jensCar.Make = "Ford";
-            jensCar.Year = ;
+            jensCar.Year = 2013;
 
 
             Car paulsCar = new Car();

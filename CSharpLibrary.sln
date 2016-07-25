@@ -31,6 +31,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_Class_Constructor and Me
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_Classes_Overloading", "05_Classes_Overloading\05_Classes_Overloading.csproj", "{C2532016-F0AD-49A7-92A0-06D55D2D64DF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_For Loops", "04_For Loops\04_For Loops.csproj", "{1AC4126F-2F0A-4C4A-852A-D3DBC7642F1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_Class_Inheritance", "05_Class_Inheritance\05_Class_Inheritance.csproj", "{9D479179-D14E-4BD4-A5A3-9815C90C2790}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +97,14 @@ Global
 		{C2532016-F0AD-49A7-92A0-06D55D2D64DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C2532016-F0AD-49A7-92A0-06D55D2D64DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C2532016-F0AD-49A7-92A0-06D55D2D64DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AC4126F-2F0A-4C4A-852A-D3DBC7642F1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AC4126F-2F0A-4C4A-852A-D3DBC7642F1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AC4126F-2F0A-4C4A-852A-D3DBC7642F1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AC4126F-2F0A-4C4A-852A-D3DBC7642F1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D479179-D14E-4BD4-A5A3-9815C90C2790}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D479179-D14E-4BD4-A5A3-9815C90C2790}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D479179-D14E-4BD4-A5A3-9815C90C2790}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D479179-D14E-4BD4-A5A3-9815C90C2790}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
