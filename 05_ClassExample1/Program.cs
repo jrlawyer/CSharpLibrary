@@ -50,7 +50,7 @@ namespace _05_ClassExample1
 
         public void PrintYear()
         {
-            Console.WriteLine("The year of the car is {0}.", Year);
+            Console.WriteLine($"The year of the car is {Year}.");
         }
     }
 
