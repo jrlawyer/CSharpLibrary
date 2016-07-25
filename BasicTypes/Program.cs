@@ -41,17 +41,7 @@ namespace ConsoleApplication1
             string s = "string";  //represents literal text, multiple chars together
                 string MyFirstName = "Jen";
                
-            //Enumerations:  labels associated with base type.
-            enum DayofWeek {Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday}
-            DayOfWeek day = DayOfWeek.Monday;
-
-            enum Gender { Unknown, Male, Female}
-            Gender gender = Gender.Female;
-
-            enum Bird { Canary, Seagull, Crow}
-            Bird yellowBird = Bird.Canary;
-            Bird whiteBird = Bird.Seagull;
-            Bird blackBird = Bird.Crow;
+          
                        
 
         }

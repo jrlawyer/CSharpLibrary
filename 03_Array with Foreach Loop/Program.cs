@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _02_Conditionals_Game_3
+namespace _03_Array_with_Foreach_Loop
 {
     class Program
     {
@@ -14,6 +14,10 @@ namespace _02_Conditionals_Game_3
             string userValue = Console.ReadLine();
 
             string message = "";
+
+            var birthMonth = new[] { "January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"};
+
+            foreach (string month in birthMonth)
 
             if (userValue == "January")
                 message = ("Your birth stone is Garnet.");
@@ -53,10 +57,10 @@ namespace _02_Conditionals_Game_3
 
             else
                 message = ("Sorry, I don't understand.");
-                string userValueAgain = Console.ReadLine();
-                //maybe use a for loop to iterate through options again?
-                //for (userValueAgain = "", maybe setup a dictionary with key value as month...iterate over dictionary to produce value.
-                //for (var i = 0, i < 10, i++)
+            string userValueAgain = Console.ReadLine();
+            //maybe use a for loop to iterate through options again?
+            //for (userValueAgain = "", maybe setup a dictionary with key value as month...iterate over dictionary to produce value.
+            //for (var i = 0, i < 10, i++)
 
 
             Console.WriteLine(message);
