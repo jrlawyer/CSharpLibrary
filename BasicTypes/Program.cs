@@ -41,8 +41,7 @@ namespace ConsoleApplication1
             string s = "string";  //represents literal text, multiple chars together
                 string MyFirstName = "Jen";
                
-
-                    
+          
                        
 
         }
