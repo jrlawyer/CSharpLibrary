@@ -11,24 +11,28 @@ namespace _05_Class_Constructor_Superheroes
         static void Main(string[] args)
         {
             //new instances of class
-            var b = new SuperHeroes("Batman", Gender.Male, "Awesomeness", 10);
-            var f = new SuperHeroes("Flash", Gender.Male, "Speedy-ness", 7);
+            var b = new SuperHeroes("Batman", Gender.Male, "Bat Shark Repellent", 10);
+            var f = new SuperHeroes("Flash", Gender.Male, "Speed", 7);
             var s = new SuperHeroes("Spiderman", Gender.Male, "Spidey-sense", 9);
-            var sman = new SuperHeroes("Superman", Gender.Male, "Strength", 1);
-            var w = new SuperHeroes("WonderWoman", Gender.Female, "Awesomeness", 10);
+            var sman = new SuperHeroes("Superman", Gender.Male, "Boy Scout Manifesto", 1);
+            var w = new SuperHeroes("WonderWoman", Gender.Female, "Invisible Plane", 10);
            
 
             Console.WriteLine(b);
             b.Thanks();
+            b.Intro();
 
             Console.WriteLine(f);
             f.Thanks();
+            f.Intro();
 
             Console.WriteLine(s);     
             s.Thanks();
+            s.Intro();
 
-            Console.WriteLine(s);
+            Console.WriteLine(w);
             w.Thanks();
+            w.Intro();
 
             sman.Ability();
             b.Ability();
@@ -66,8 +70,19 @@ namespace _05_Class_Constructor_Superheroes
         public int Level { get; set; }
 
         public override string ToString()
+
         {
-            return $"It's {Name}! He will save us with his {Power}!";
+            return ($"{Name}: {Power}");
+        }
+
+        public void Intro()
+        {
+            if (Gender == Gender.Male)
+             
+                Console.WriteLine($"It's {Name}! He will save us with his {Power}!");
+
+            else
+                Console.WriteLine($"It's {Name}! She will save us with her {Power}!");
         }
 
         public void Thanks()
