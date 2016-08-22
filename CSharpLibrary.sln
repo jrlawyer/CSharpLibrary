@@ -53,6 +53,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_Class_Constructor_Dance"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_Classes_Overloading_Inheritance", "05_Classes_Overloading_Inheritance\05_Classes_Overloading_Inheritance.csproj", "{CA177380-3DF9-40EF-B752-78E1EECBB73D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_Arrays_Example 1", "03_Arrays_Example 1\03_Arrays_Example 1.csproj", "{C68A23C4-66E7-4CE1-9D80-4446AA8C4C87}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -159,6 +161,10 @@ Global
 		{CA177380-3DF9-40EF-B752-78E1EECBB73D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CA177380-3DF9-40EF-B752-78E1EECBB73D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CA177380-3DF9-40EF-B752-78E1EECBB73D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C68A23C4-66E7-4CE1-9D80-4446AA8C4C87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C68A23C4-66E7-4CE1-9D80-4446AA8C4C87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C68A23C4-66E7-4CE1-9D80-4446AA8C4C87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C68A23C4-66E7-4CE1-9D80-4446AA8C4C87}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
