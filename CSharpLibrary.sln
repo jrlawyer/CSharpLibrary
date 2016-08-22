@@ -51,6 +51,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_Classes_Without Construc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_Class_Constructor_Dance", "05_Class_Constructor_Dance\05_Class_Constructor_Dance.csproj", "{343B4609-8320-446C-AA65-FE01C65443A2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_Classes_Overloading_Inheritance", "05_Classes_Overloading_Inheritance\05_Classes_Overloading_Inheritance.csproj", "{CA177380-3DF9-40EF-B752-78E1EECBB73D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +155,10 @@ Global
 		{343B4609-8320-446C-AA65-FE01C65443A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{343B4609-8320-446C-AA65-FE01C65443A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{343B4609-8320-446C-AA65-FE01C65443A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA177380-3DF9-40EF-B752-78E1EECBB73D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA177380-3DF9-40EF-B752-78E1EECBB73D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA177380-3DF9-40EF-B752-78E1EECBB73D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA177380-3DF9-40EF-B752-78E1EECBB73D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
