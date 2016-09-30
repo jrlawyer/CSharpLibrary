@@ -61,6 +61,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_While Loop with Text Fil
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07_String Manipulation.cs", "07_String Manipulation.cs\07_String Manipulation.cs.csproj", "{B492EC8B-00D4-4470-9FCD-85812DA754ED}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07_Date_Time.cs", "07_Date_Time.cs\07_Date_Time.cs.csproj", "{F3055E84-C95A-47EC-8449-14A2D502BB14}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -183,6 +185,10 @@ Global
 		{B492EC8B-00D4-4470-9FCD-85812DA754ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B492EC8B-00D4-4470-9FCD-85812DA754ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B492EC8B-00D4-4470-9FCD-85812DA754ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3055E84-C95A-47EC-8449-14A2D502BB14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3055E84-C95A-47EC-8449-14A2D502BB14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3055E84-C95A-47EC-8449-14A2D502BB14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3055E84-C95A-47EC-8449-14A2D502BB14}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
